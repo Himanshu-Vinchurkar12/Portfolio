@@ -7,7 +7,7 @@ export const projects: Project[] = [
     description: 'Dual apps (Admin + Retailer) for pharmaceutical stock and order management with real-time updates.',
     technologies: ['Kotlin', 'Jetpack Compose', 'Flask APIs', 'Firebase'],
     githubUrl: 'https://github.com/Himanshu-Vinchurkar12/PharmaConnect',
-    imageUrl: 'https://images.pexels.com/photos/3962285/pexels-photo-3962285.jpeg?auto=compress&cs=tinysrgb&w=800'
+    imageUrl: '/projects/PharmaConnect 2.webp'
   },
   {
     id: '2',
@@ -15,23 +15,23 @@ export const projects: Project[] = [
     description: 'Advanced contact management app with Room Database integration and modern UI design.',
     technologies: ['Kotlin', 'Jetpack Compose', 'Room Database', 'Material Design'],
     githubUrl: 'https://github.com/Himanshu-Vinchurkar12/Contact-Ease',
-    imageUrl: 'https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=800'
+    imageUrl: '/projects/Contact-Ease.png'
   },
   {
     id: '3',
-    title: 'NotesHub',
-    description: 'Cross-platform notes app with real-time sync and Firebase backend. (In Development)',
+    title: 'Shoppy',
+    description: 'Cross-platform Shopping app with real-time sync and Firebase backend. (In Development)',
     technologies: ['Kotlin', 'Jetpack Compose', 'Firebase', 'Real-time Sync'],
     githubUrl: 'https://github.com/Himanshu-Vinchurkar12',
-    imageUrl: 'https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=800'
+    imageUrl: '/projects/Shopping.jpeg'
   },
   {
     id: '4',
-    title: 'MarkIt',
-    description: 'Task & productivity management app with REST APIs. (In Development)',
+    title: 'Quizify',
+    description: 'A smart study companion app that helps students revise faster. Users can type or upload notes (text/PDF), and the app uses AI to generate summaries, quizzes, and flashcards. Built with Jetpack Compose, Room DB, and AI APIs (OpenAI/Hugging Face), it provides an interactive way to learn and review study material. (In Development)',
     technologies: ['Kotlin', 'Jetpack Compose', 'REST APIs', 'Material Design'],
     githubUrl: 'https://github.com/Himanshu-Vinchurkar12',
-    imageUrl: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800'
+    imageUrl: '/projects/Quizify 3.png'
   }
 ];
 
