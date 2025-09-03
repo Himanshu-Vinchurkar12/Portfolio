@@ -3,7 +3,7 @@
 A **mobile-first, responsive, animated personal portfolio website** built with **React, Tailwind CSS, and Framer Motion**.  
 Designed for Android developers, this portfolio highlights my **skills, projects, certifications, and education**, with smooth animations, dark/light theme toggle, and a functional contact form.  
 
-👉 **To see preview, [click on this link](https://portfolio-six-coral-45.vercel.app/)**  
+👉 **To see preview, [click on this link]()**  
 
 ---
 
