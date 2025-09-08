@@ -488,9 +488,9 @@ const Contact: React.FC = () => {
               <h4 className="font-semibold mb-3 text-sm">Follow Me</h4>
               <div className="flex gap-3">
                 {[
-                  { icon: Github, href: 'https://github.com/himanshu', label: 'GitHub' },
-                  { icon: Linkedin, href: 'https://linkedin.com/in/himanshu', label: 'LinkedIn' },
-                  { icon: Instagram, href: 'https://instagram.com/himanshu', label: 'Instagram' }
+                  { icon: Github, href: 'https://github.com/Himanshu-Vinchurkar12', label: 'GitHub' },
+                  { icon: Linkedin, href: 'https://www.linkedin.com/in/himanshu-vinchurkar', label: 'LinkedIn' },
+                  { icon: Instagram, href: 'https://www.instagram.com/himanshu_vinchurkar_28/', label: 'Instagram' }
                 ].map((social, index) => (
                   <motion.a
                     key={social.label}
